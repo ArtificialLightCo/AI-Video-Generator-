@@ -1,0 +1,28 @@
+{
+  "name": "ai-video-studio",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chart.js": "^4.0.1",
+    "diffusers": "^0.10.0",
+    "ffmpeg-static": "^4.4.0",
+    "i18next": "^21.9.2",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.0.1",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^12.2.0",
+    "react-responsive-carousel": "^3.2.23",
+    "react-router-dom": "^6.3.0",
+    "react-toastify": "^9.1.1",
+    "tailwindcss": "^3.2.1",
+    "@headlessui/react": "^1.7.7",
+    "@heroicons/react": "^2.0.18"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
